@@ -1,11 +1,15 @@
+body{
+    background-image: url(../login/fifa.jpeg);
+
+}
 .contenedor{
-    background-color: aqua;
+    background-color: rgb(10, 11, 11);
    /* height: 50%;
     width: 10%;*/
 }
 .prueba{
-    background-color: blue;
+    background-color: rgb(92, 92, 94);
 }
 #BtnInvitar{
-    background-color: blueviolet;
+    background-color: rgb(88, 87, 89);
 }
