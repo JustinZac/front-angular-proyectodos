@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { CrearLigasComponent } from './crear-ligas/crear-ligas.component';
 import { RegistroComponent } from './registro/registro.component';
 import { MisLigasComponent } from './mis-ligas/mis-ligas.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CrearLigasComponent,
     RegistroComponent,
-    MisLigasComponent
+    MisLigasComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
